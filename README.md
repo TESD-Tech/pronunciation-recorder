@@ -25,3 +25,11 @@ server: {
     },
   },
 ```
+
+* API Keys are loaded from .env.development.local
+
+```javascript
+VITE_PS_CLIENT_ID=XXX
+VITE_PS_CLIENT_SECRET=XXX
+VITE_PS_URL=https://...
+```

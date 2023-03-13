@@ -24,10 +24,10 @@ export default defineConfig({
     },
   },
 
-  base: '/te-tech/',
+  base: '/te-tech/pronunciation-recorder',
 
   build: {
-    outDir: 'dist/WEB_ROOT/te-tech/',
+    outDir: 'dist/WEB_ROOT/te-tech/pronunciation-recorder',
   },
 
   server: {
