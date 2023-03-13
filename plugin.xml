@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<plugin name="TE Tech - Vitesse Starter Template" xmlns="http://plugin.powerschool.pearson.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" description="TE Tech Vitesse Starteer Template" version="23.3.1" xsi:schemaLocation="http://plugin.powerschool.pearson.com plugin.xsd">
+  <publisher name="Benjamin Kemp">
+    <contact email="kempb@tesd.net"/>
+  </publisher>
+  <oauth/>
+</plugin>
