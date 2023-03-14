@@ -1,0 +1,13 @@
+<!-- START title_student_end_css.te-tech_pronunciation-recorder.student.alert.txt-->
+<style>
+  .embed-container {
+    display: flex;
+  }
+  .embedded-object {
+    flex-shrink: 1;
+  }
+</style>
+<div class="embed-container">
+  <embed class="embedded-object" src="/te-tech/pronunciation-recorder/recorder.html" />
+</div>
+<!-- END title_student_end_css.te-tech_pronunciation-recorder.student.alert.txt-->
